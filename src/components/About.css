@@ -1,0 +1,14 @@
+.header-image {
+    width: 100%;
+    margin: 0 auto;
+}
+
+.about-profile-pic {
+    float: left;
+    margin: 65px;
+    width: 30%;
+}
+
+.about-text {
+    margin: 50px 0;
+}
